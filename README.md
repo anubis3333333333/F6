@@ -8,17 +8,17 @@
 
 
 ## Автор
-    **Имя:** Чумаченко Михаил
-    **Группа:** ИСП-242
+    Имя: Чумаченко Михаил
+    Группа: ИСП-242
 
 
 
 
 ## Стек технологий 
-    **Framework:** Flutter 3.47.7
-    **Language:** Dart 3.13.5
-    **Платформа:** Web (Edge)
-    **IDE:** Visual Studio Code 
+    Framework: Flutter 3.47.7
+    Language: Dart 3.13.5
+    Платформа: Web (Edge)
+    IDE: Visual Studio Code 
 
 
 
