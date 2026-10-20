@@ -40,7 +40,8 @@ class _QuotePageState extends State<QuotePage>{
                         children: [
                             Image.asset(
                                 "assets/images/image${index % 3 + 1}.jpg", // для расчета картинки
-                                height: 150,
+                                height: 500,
+                                width: 300,
                             ),
                             const SizedBox(height: 20),
                             const Text(

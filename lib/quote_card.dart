@@ -12,9 +12,9 @@ class QuoteCard extends StatelessWidget{
         return Text(
             quote,
             textAlign: TextAlign.center,
-            style: const TextStyle(
+            style: TextStyle(
                 fontSize: 24,
-                color: Colors.indigo[900],
+                color: Colors.indigo,
             ),
         );
     }

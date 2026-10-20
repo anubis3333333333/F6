@@ -11,7 +11,7 @@ class QuoteButton extends StatelessWidget{
     Widget build(BuildContext context) {
         return ElevatedButton( // перемещение кнопки
             onPressed: onPressed,
-            child: const Text("Next quote"),
+            child: const Text("Next Quote"),
         );
     }
 } 
