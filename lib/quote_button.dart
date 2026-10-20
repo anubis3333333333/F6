@@ -14,4 +14,4 @@ class QuoteButton extends StatelessWidget{
             child: const Text("Next quote"),
         );
     }
-}
+} 

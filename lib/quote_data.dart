@@ -12,4 +12,4 @@ class QuoteData{
     static int randomIndex(){
         return Random().nextInt(quotes.length);
     }
-}
+} 
