@@ -46,3 +46,14 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+
+android/
+ios/
+linux/
+macos/
+windows/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
